@@ -1,0 +1,18 @@
+🎯 Objetivo do Framework
+Esse framework será um boilerplate completo com:
+
+Estrutura de pastas organizada
+
+Blueprints para modularização
+
+Autenticação de usuários (login/logout)
+
+Painel administrativo protegido
+
+Conexão com banco de dados via SQLAlchemy
+
+Validação de formulários com WTForms
+
+Templates com Jinja2 e Bootstrap
+
+APIs REST com autenticação via JWT
